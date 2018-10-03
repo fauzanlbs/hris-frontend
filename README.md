@@ -1,4 +1,4 @@
-# Koperasi Frontend ReactJS
+# HRIS Frontend ReactJS
 
 Referensi:
 - Template: [Material Dashboard React](https://www.creative-tim.com/product/material-dashboard-react?partner=104080) (remake)
